@@ -21,8 +21,12 @@ div.blue {
   background-color: blue;
 }
 
-div.green{
+div.green {
   background-color: green;
+}
+
+div.red {
+  background-color: red;
 }
 
 .invisible {
